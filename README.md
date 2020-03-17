@@ -1,7 +1,7 @@
 # bootprint-opendxl 
 
 [![NPM version](https://img.shields.io/npm/v/bootprint-opendxl.svg)](https://npmjs.com/package/bootprint-opendxl)
-[![Travis Build Status](https://travis-ci.org/opendxl/bootprint-opendxl.svg?branch=master)](https://travis-ci.org/opendxl/bootprint-opendx)
+[![Actions Status](https://github.com/opendxl/bootprint-opendxl/workflows/Build/badge.svg)](https://github.com/opendxl/bootprint-opendxl/actions)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 > Converts an OpenDXL-Specification into a static html page
